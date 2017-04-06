@@ -1,0 +1,86 @@
+1DATE 2014/08/05                   THE STANDARD BANK OF SOUTH AFRICA LIMITED - GROUP INTERNAL AUDIT                       PAGE      1
+0         REPORT ATMX0640 - ACTIVITIES OF CARD NUMBER   36135624369049  (PRODUCED FOR USER EBR4 - STRICTLY FOR INTERNAL USE)
+0*********************************************************************
+ ACTIVITIES RECORDED ON FRIDAY    2014/07/04
+012:49:27 SERIAL NUMBER     PERSONAL IDENTIFICATION NUMBER ISSUE (FIRST ISSUE)
+    DINERS CLUB3613562      AT BRANCH 7505 BY USER IVRPIN8  (1ST 6 CHARACTERS ONLY) OP-ID =  0000
+013:21:04 SERIAL NUMBER     AUTOBANK E170     AUTOBANK CASH WITHDRAWAL REQUEST
+    DINERS CLUB        FROM ACCOUNT 1805 000 00 129 851 8 (ORD) AMOUNT:       2 000,00
+013:21:04 SERIAL NUMBER     AUTOBANK E170     AUTOBANK CASH WITHDRAWAL COMPLETION
+    DINERS CLUB        FROM ACCOUNT 1805 000 00 129 851 8 (ORD) AMOUNT:                      2 000,00
+0*********************************************************************
+ ACTIVITIES RECORDED ON FRIDAY    2014/07/11
+017:45:01 SERIAL NUMBER     PERSONAL IDENTIFICATION NUMBER ISSUE (FIRST ISSUE)
+    DINERS CLUB3613562      AT BRANCH 7505 BY USER IVRPIN1  (1ST 6 CHARACTERS ONLY) OP-ID =  0000
+017:58:17 SERIAL NUMBER     AUTOBANK E170     AUTOBANK CASH WITHDRAWAL REQUEST
+    DINERS CLUB        FROM ACCOUNT 1805 000 00 129 851 8 (ORD) AMOUNT:       2 000,00
+017:58:17 SERIAL NUMBER     AUTOBANK E170     AUTOBANK CASH WITHDRAWAL COMPLETION
+    DINERS CLUB        FROM ACCOUNT 1805 000 00 129 851 8 (ORD) AMOUNT:                      2 000,00
+0*********************************************************************
+ ACTIVITIES RECORDED ON SUNDAY    2014/07/13
+017:55:36 SERIAL NUMBER     PERSONAL IDENTIFICATION NUMBER ISSUE
+    DINERS CLUB3613562      AT BRANCH 7505 BY USER IVRPIN9  (1ST 6 CHARACTERS ONLY) OP-ID =  0000 (PREVIOUSLY ISSUED ON 2014/07/11)
+018:05:23 SERIAL NUMBER     AUTOBANK E170     AUTOBANK CASH WITHDRAWAL REQUEST
+    DINERS CLUB        FROM ACCOUNT 1805 000 00 129 851 8 (ORD) AMOUNT:       2 000,00
+018:05:23 SERIAL NUMBER     AUTOBANK E170     AUTOBANK CASH WITHDRAWAL COMPLETION
+    DINERS CLUB        FROM ACCOUNT 1805 000 00 129 851 8 (ORD) AMOUNT:                      2 000,00
+0*********************************************************************
+ ACTIVITIES RECORDED ON WEDNESDAY 2014/07/16
+008:09:40 SERIAL NUMBER     PERSONAL IDENTIFICATION NUMBER ISSUE
+    DINERS CLUB3613562      AT BRANCH 7505 BY USER IVRPIN?? (1ST 6 CHARACTERS ONLY) OP-ID =  0000 (PREVIOUSLY ISSUED ON 2014/07/13)
+008:28:38 SERIAL NUMBER     AUTOBANK E170     AUTOBANK CASH WITHDRAWAL REQUEST
+    DINERS CLUB        FROM ACCOUNT 1805 000 00 129 851 8 (ORD) AMOUNT:       2 000,00
+008:28:38 SERIAL NUMBER     AUTOBANK E170     AUTOBANK CASH WITHDRAWAL COMPLETION
+    DINERS CLUB        FROM ACCOUNT 1805 000 00 129 851 8 (ORD) AMOUNT:                      2 000,00
+0*********************************************************************
+1DATE 2014/08/05                   THE STANDARD BANK OF SOUTH AFRICA LIMITED - GROUP INTERNAL AUDIT                       PAGE      2
+0         REPORT ATMX0640 - ACTIVITIES OF CARD NUMBER   36135624369049  (PRODUCED FOR USER EBR4 - STRICTLY FOR INTERNAL USE)
+0*********************************************************************
+ ACTIVITIES RECORDED ON THURSDAY  2014/07/17
+008:32:12 SERIAL NUMBER     PERSONAL IDENTIFICATION NUMBER ISSUE
+    DINERS CLUB3613562      AT BRANCH 7505 BY USER IVRPIN4  (1ST 6 CHARACTERS ONLY) OP-ID =  0000 (PREVIOUSLY ISSUED ON 2014/07/16)
+008:50:32 SERIAL NUMBER     AUTOBANK E658     AUTOBANK CASH WITHDRAWAL REQUEST
+    DINERS CLUB        FROM ACCOUNT 1805 000 00 129 851 8 (ORD) AMOUNT:       2 000,00
+008:50:32 SERIAL NUMBER     AUTOBANK E658     AUTOBANK CASH WITHDRAWAL COMPLETION
+    DINERS CLUB        FROM ACCOUNT 1805 000 00 129 851 8 (ORD) AMOUNT:                      2 000,00
+021:49:30 SERIAL NUMBER     AUTOBANK 5318     AUTOBANK CASH WITHDRAWAL REQUEST
+    DINERS CLUB        FROM ACCOUNT 1805 000 00 129 851 8 (ORD) AMOUNT:       1 000,00
+                                                     00047 TRANSACTION REJECTED - TECHNICAL ERROR    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+0*********************************************************************
+ ACTIVITIES RECORDED ON FRIDAY    2014/07/18
+016:06:41 SERIAL NUMBER     AUTOBANK 4093     AUTOBANK CASH WITHDRAWAL REQUEST
+    DINERS CLUB        FROM ACCOUNT 1805 000 00 129 851 8 (ORD) AMOUNT:       1 000,00
+016:06:41 SERIAL NUMBER     AUTOBANK 4093     AUTOBANK CASH WITHDRAWAL COMPLETION
+    DINERS CLUB        FROM ACCOUNT 1805 000 00 129 851 8 (ORD) AMOUNT:                      1 000,00
+0*********************************************************************
+0                                                      E N D  O F  R E P O R T                                2171047
+
+
+
+
+
+Message : Data for  0036135624369049  being displayed                          
+Command :                                                                      
+.-----------------------------------------------------------------------------.
+| Detail card information (1 of 2) for card  0036135624369049   Serial 0      |
+.-----------------------------------------------------------------------------.
+| Date Last Changed..: 2014-07-17-08.32.12.628464                             |
+| Initials...:                          Surname.....: DINERS CLUB36135624369  |
+| Birth Date.: **                                                             |
+| Last Used..: **                       Removed Acnt: **                      |
+| Hotcard....: Valid                    Stop card...: None                    |
+| Company....: Standard Bank            Region......: RCCC                    |
+| Card type..: Diners                   Language....: English                 |
+| Issue Date.: **                       Expiry Date.: 9999-12-31              |
+| Suppress...: NO                       New serial..: **                      |
+| BD Date....: 2014-07-04               BD IBT......: 7505                    |
+| Pin Date...: 2014-07-17               Pin IBT.....: 7505                    |
+| Invalid Pin: 0.                       Pin Vary....: 0.                      |
+| Pin Offset.: Non displ                Pin type....: SYSTEM                  |
+| User passw.: None                     Passw Date..: **                      |
+| Passw Num..: Not load                 Invalid cnt.: 0.                      |
+|                                                                             |
+
+
+
+
